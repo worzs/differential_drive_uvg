@@ -1,0 +1,17 @@
+﻿"Symbol";"Value";"Unit";
+"SUPPLIER_NAME";"RS Components";"";
+"TraceParts.PartVersion";"1.0.1";"";
+"SUPPLIER";"Wurth Elektronik";"";
+"TraceParts.PartStatus";"Published";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"RS_STOCK_NUMBER";"8930606";"";
+"REVISION";"A";"";
+"DESIGN";"WR-FSH Shocksafe Fuseholder THT Screw In";"";
+"TraceParts.InstanceId";"10-29022016-1273697RDI953BBWMGULJ1HRG20D4CC";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartTitle";"WR-FSH Shocksafe Fuseholder THT Screw In";"";
+"REFERENCE";"696211001102";"";
+"TIMESTAMP";"19/2/2016 17:29:39";"";
+"TraceParts.PartNumber";"10-29022016-127369";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"RS_COMPONENTS:/TRACEPARTS/TP09/TP09004/TP09004002/TP09004002004/TP09004002004002/10-29022016-127369";"";
